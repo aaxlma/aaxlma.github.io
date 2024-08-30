@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aaxlma.github.io/sitemap/sitemap.lRi.gz
